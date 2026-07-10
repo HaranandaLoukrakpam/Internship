@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Apple Style Keyboard</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(135deg,#F5F5F7 0%,#ECECEF 50%,#E8E8ED 100%);
+    font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Helvetica,Arial,sans-serif;
+}
+
+.keyboard-container{
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+}
+
+h1{
+    text-align:center;
+    color:#1D1D1F;
+    font-size:40px;
+    font-weight:600;
+    letter-spacing:8px;
+    margin-bottom:15px;
+}
+
+.row{
+    display:flex;
+    justify-content:center;
+    gap:8px;
+}
+
+.key{
+    width:50px;
+    height:50px;
+    border:1px solid #E5E5E7;
+    border-radius:10px;
+    background:#FAFAFA;
+    color:#1D1D1F;
+    font-size:13px;
+    font-weight:500;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:default;
+
+    box-shadow:
+        0 2px 6px rgba(0,0,0,.08),
+        0 8px 20px rgba(0,0,0,.04);
+
+    user-select:none;
+}
+.key-backspace{width:110px;}
+.key-tab{width:80px;}
+.key-slash{width:80px;}
+.key-caps{width:95px;}
+.key-enter{width:115px;}
+.key-shift-l{width:125px;}
+.key-shift-r{width:125px;}
+.key-ctrl{width:65px;}
+.key-space{width:350px;}
+</style>
+
+</head>
+
+<body>
+
+<div class="keyboard-container">
+
+<h1>KEYBOARD</h1>
+
+<div class="row">
+    <button class="key">Esc</button>
+    <button class="key">F1</button>
+    <button class="key">F2</button>
+    <button class="key">F3</button>
+    <button class="key">F4</button>
+    <button class="key">F5</button>
+    <button class="key">F6</button>
+    <button class="key">F7</button>
+    <button class="key">F8</button>
+    <button class="key">F9</button>
+    <button class="key">F10</button>
+    <button class="key">F11</button>
+    <button class="key">F12</button>
+    <button class="key">Insert</button>
+    <button class="key">PrintScr</button>
+    <button class="key">Delete</button>
+</div>
+
+<div class="row">
+    <button class="key">~</button>
+    <button class="key">1</button>
+    <button class="key">2</button>
+    <button class="key">3</button>
+    <button class="key">4</button>
+    <button class="key">5</button>
+    <button class="key">6</button>
+    <button class="key">7</button>
+    <button class="key">8</button>
+    <button class="key">9</button>
+    <button class="key">0</button>
+    <button class="key">-</button>
+    <button class="key">=</button>
+    <button class="key key-backspace">Backspace</button>
+    <button class="key">Home</button>
+</div>
+
+<div class="row">
+    <button class="key key-tab">Tab</button>
+    <button class="key">Q</button>
+    <button class="key">W</button>
+    <button class="key">E</button>
+    <button class="key">R</button>
+    <button class="key">T</button>
+    <button class="key">Y</button>
+    <button class="key">U</button>
+    <button class="key">I</button>
+    <button class="key">O</button>
+    <button class="key">P</button>
+    <button class="key">{</button>
+    <button class="key">}</button>
+    <button class="key key-slash">\</button>
+    <button class="key">Pg Up</button>
+</div>
+
+<div class="row">
+    <button class="key key-caps">Caps Lock</button>
+    <button class="key">A</button>
+    <button class="key">S</button>
+    <button class="key">D</button>
+    <button class="key">F</button>
+    <button class="key">G</button>
+    <button class="key">H</button>
+    <button class="key">J</button>
+    <button class="key">K</button>
+    <button class="key">L</button>
+    <button class="key">;</button>
+    <button class="key">'</button>
+    <button class="key key-enter">Enter</button>
+    <button class="key">Pg Dn</button>
+</div>
+
+<div class="row">
+    <button class="key key-shift-l">Shift</button>
+    <button class="key">Z</button>
+    <button class="key">X</button>
+    <button class="key">C</button>
+    <button class="key">V</button>
+    <button class="key">B</button>
+    <button class="key">N</button>
+    <button class="key">M</button>
+    <button class="key">&lt;</button>
+    <button class="key">&gt;</button>
+    <button class="key">?</button>
+    <button class="key key-shift-r">Shift</button>
+    <button class="key">&uarr;</button>
+    <button class="key">End</button>
+</div>
+
+<div class="row">
+    <button class="key key-ctrl">Ctrl</button>
+    <button class="key key-ctrl">Fn</button>
+    <button class="key key-ctrl">Win</button>
+    <button class="key key-ctrl">Alt</button>
+    <button class="key key-space">Space</button>
+    <button class="key key-ctrl">Alt</button>
+    <button class="key key-ctrl">Fn</button>
+    <button class="key key-ctrl">Ctrl</button>
+    <button class="key">&larr;</button>
+    <button class="key">&darr;</button>
+    <button class="key">&rarr;</button>
+</div>
+
+</div>
+
+</body>
+</html>
