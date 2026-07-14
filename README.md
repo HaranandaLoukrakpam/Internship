@@ -22,9 +22,9 @@ I update this log daily to track my momentum, detailing what was covered in the 
 ### Week 1
 
 **Day 5: 10 July 2026**
-* **Internship Focus:** * Selector and Combinator
+* **Internship Focus:**  Selector and Combinator
     * Types of selector and combinator and their uses
-* **Self-Paced (`/self_paced`):** * Button,anchor,paragraph,heading,inline css,class
+* **Self-Paced (`/self_paced`):**  Button,anchor,paragraph,heading,inline css,class
     * Basically from the start scratching my way to par up with the people
 
 ---
