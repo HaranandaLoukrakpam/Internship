@@ -22,7 +22,7 @@ I update this log daily to track my momentum, detailing what was covered in the 
 ### Week 1
 
 **Day 7: 14 July 2026**
-* **Internship Focus:**  Animation, Transformation
+* **Internship Focus:**  Animation, Transformation and media queries
     * Animation scaling and time different properties of this
 * **Self-Paced (`/self_paced`):**  Button,anchor,paragraph,heading,inline css,class
     * Basically from the start scratching my way to par up with the people
