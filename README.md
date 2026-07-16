@@ -21,9 +21,9 @@ I update this log daily to track my momentum, detailing what was covered in the 
 
 ### Week 1
 
-**Day 8: 15 July 2026**
-* **Internship Focus:**  Introduction to JavaScript
-    * basic syntax and othe such as loop data-structure
+**Day 9: 16 July 2026**
+* **Internship Focus:**  DataStructure, Nesting
+    * More on data-structure and object,arrays and nesting and more on log console
 * **Self-Paced (`/self_paced`):**  Button,anchor,paragraph,heading,inline css,class
     * Basically from the start scratching my way to par up with the people
 
