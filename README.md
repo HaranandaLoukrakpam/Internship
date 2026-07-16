@@ -21,9 +21,9 @@ I update this log daily to track my momentum, detailing what was covered in the 
 
 ### Week 1
 
-**Day 7: 14 July 2026**
-* **Internship Focus:**  Animation, Transformation and media queries
-    * Animation scaling and time different properties of this
+**Day 8: 15 July 2026**
+* **Internship Focus:**  Introduction to JavaScript
+    * basic syntax and othe such as loop data-structure
 * **Self-Paced (`/self_paced`):**  Button,anchor,paragraph,heading,inline css,class
     * Basically from the start scratching my way to par up with the people
 
@@ -31,7 +31,7 @@ I update this log daily to track my momentum, detailing what was covered in the 
 
 ## 🛠️ Tech Stack & Tools
 
-* **Frontend:** HTML,CSS
+* **Frontend:** HTML,CSS,JavaScript
 * **Backend:** Not yet started
 * **Database:** Not yet started
 * **Environment:** Arch Linux, Neovim, VScode
