@@ -10,35 +10,49 @@ Welcome to the repository chronicling my progress during the IBM Full Stack Deve
 
 This repository is divided into two primary sections to maintain a clean workflow between guided and independent learning:
 
-* **`/` (Root):** Contains the official assignments, projects, and daily tasks assigned during the IBM virtual internship sessions named as day1,day2 etc folder.
-* **`/self_paced`:** A dedicated directory for my independent work, side-quests, and deeper dives into technologies parallel to the internship curriculum named self_pace.
+* **`/` (Root):** Contains the official assignments, projects, and daily tasks assigned during the IBM virtual internship sessions (`day1`, `day2`, etc.).
+* **`/self_paced`:** A dedicated directory for my independent work, experiments, and deeper dives into web development concepts outside the internship curriculum.
 
 ---
 
 ## 🗓️ Daily Progress Log
 
-I update this log daily to track my momentum, detailing what was covered in the official sessions alongside my self-paced learning.
+I update this log daily to track my progress, covering both the official internship content and my self-paced learning.
 
 ### Week 1
 
-**Day 9: 16 July 2026**
-* **Internship Focus:**  DataStructure, Nesting
-    * More on data-structure and object,arrays and nesting and more on log console
-* **Self-Paced (`/self_paced`):**  Button,anchor,paragraph,heading,inline css,class
-    * Basically from the start scratching my way to par up with the people
+**Day 12: 21 July 2026**
+
+#### Internship Focus
+
+* JavaScript Objects
+* Object Methods
+* `this` Keyword
+* DOM Manipulation
+* Form Handling
+* Event Listeners
+* Form Submission with `preventDefault()`
+
+
+#### Self-Paced (`/self_paced`)
+
+* Continued strengthening JavaScript fundamentals.
+* Practiced creating dynamic HTML elements with JavaScript.
+* Experimented with styling elements using JavaScript.
+* Explored button click events and event listeners.
+* Reviewed object literals, methods, and function execution.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-* **Frontend:** HTML,CSS,JavaScript
+* **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Not yet started
 * **Database:** Not yet started
-* **Environment:** Arch Linux, Neovim, VScode
+* **Environment:** Arch Linux, Neovim, VS Code
 
 ---
 
 ## 👨‍💻 Author
 
 **Harananda Loukrakpam**
-
