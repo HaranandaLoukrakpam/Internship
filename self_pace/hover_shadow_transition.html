@@ -7,14 +7,15 @@
         height: 30px;
         width: 105px;
         cursor: pointer;
+        transition: opacity 0.15s;
     }
 
     .subscribe_button:hover{
-        background-color: green;
+        opacity: 0.8;
     }
 
     .subscribe_button:active{
-        background-color: blue;
+        opacity: 0.5;
     }
 
     .join_button{
@@ -24,7 +25,20 @@
         border-radius: 1.5px;
         height: 30px;
         width: 60px;
+        cursor: pointer;
+        transition: background-color 0.15s,
+            color 0.15s;
     }
+
+    .join_button:hover{
+        background-color: rgb(66, 66, 255);
+        color: white;
+    }
+
+    .join_button:active{
+        opacity: 0.7;
+    }
+
     .tweet_button{
         background-color: rgb(42, 149, 248);
         color: white;
@@ -34,6 +48,12 @@
         width: 72px;
         cursor: pointer;
         font-weight: bold;
+        margin-left: 8px;
+        transition: box-shadow 0.15s;
+    }
+
+    .tweet_button:hover{
+         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
     }
 </style>
 
