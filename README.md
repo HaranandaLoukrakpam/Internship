@@ -1,7 +1,6 @@
-```markdown
 # IBM Full Stack Development Virtual Internship
 
-Welcome to the repository chronicling my progress during the IBM Full Stack Development Virtual Internship. This space serves as both a daily log of my guided internship tasks and a sandbox for my independent explorations in software development.
+Welcome to the repository chronicling my progress during the IBM Full Stack Development Virtual Internship. This repository contains my daily internship assignments along with my self-paced learning and practice.
 
 **Mentor:** Raghuveer Sain
 
@@ -9,37 +8,57 @@ Welcome to the repository chronicling my progress during the IBM Full Stack Deve
 
 ## 📂 Repository Structure
 
-This repository is divided into two primary sections to maintain a clean workflow between guided and independent learning:
-
-* **`/` (Root):** Contains the official assignments, projects, and daily tasks assigned during the IBM virtual internship sessions (`day1`, `day2`, etc.).
-* **`/self_paced`:** A dedicated directory for my independent work, experiments, and deeper dives into web development concepts outside the internship curriculum.
+- **`/` (Root):** Daily internship assignments and projects (`day1`, `day2`, etc.).
+- **`/self_paced`:** Personal practice, experiments, and additional learning outside the internship.
 
 ---
 
 ## 🗓️ Daily Progress Log
 
-I update this log daily to track my progress, covering both the official internship content and my self-paced learning.
-
 ### Week 2
+
+**Day 14: 23 July 2026**
+
+#### Internship Focus
+
+- JavaScript synchronous and asynchronous execution
+- `setTimeout()`
+- Promises
+- `async` / `await`
+- Fetch API
+- JSON parsing
+- DOM manipulation
+- Dynamic product cards
+- CSS Grid layout
+
+#### Self-Paced (`/self_paced`)
+
+- CSS button styling
+- `:hover` and `:active` pseudo-classes
+- CSS transitions
+- Padding and margin
+- Border radius and box shadows
+
+---
 
 **Day 13: 22 July 2026**
 
 #### Internship Focus
 
-* Building User Registration and Login authentication flows
-* Browser `localStorage` for data persistence (`setItem`, `getItem`)
-* JSON parsing and stringifying (`JSON.parse()`, `JSON.stringify()`)
-* Page redirection using `window.location.href`
-* Array iteration and conditional logic for credential validation
-* Handling form validation and preventing duplicate entries
+- User Registration and Login
+- `localStorage`
+- `JSON.parse()` and `JSON.stringify()`
+- Page redirection
+- Form validation
+- Array methods for authentication
 
 #### Self-Paced (`/self_paced`)
 
-* Continued strengthening JavaScript fundamentals.
-* Practiced creating dynamic HTML elements with JavaScript.
-* Experimented with styling elements using JavaScript.
-* Explored button click events and event listeners.
-* Reviewed object literals, methods, and function execution.
+- JavaScript DOM manipulation
+- Dynamic HTML elements
+- Event listeners
+- Object methods
+- Function practice
 
 ---
 
@@ -49,35 +68,40 @@ I update this log daily to track my progress, covering both the official interns
 
 #### Internship Focus
 
-* JavaScript Objects
-* Object Methods
-* `this` Keyword
-* DOM Manipulation
-* Form Handling
-* Event Listeners
-* Form Submission with `preventDefault()`
+- JavaScript Objects
+- Object Methods
+- `this` keyword
+- DOM Manipulation
+- Form Handling
+- Event Listeners
+- `preventDefault()`
 
 #### Self-Paced (`/self_paced`)
 
-* Continued strengthening JavaScript fundamentals.
-* Practiced creating dynamic HTML elements with JavaScript.
-* Experimented with styling elements using JavaScript.
-* Explored button click events and event listeners.
-* Reviewed object literals, methods, and function execution.
+- JavaScript fundamentals
+- Dynamic HTML creation
+- Element styling
+- Button events
+- Object practice
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Not yet started
-* **Database:** Not yet started
-* **Environment:** Arch Linux, Neovim, VS Code
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 💻 Development Environment
+
+- Arch Linux
+- Neovim
+- VS Code
 
 ---
 
 ## 👨‍💻 Author
 
 **Harananda Loukrakpam**
-
-```
